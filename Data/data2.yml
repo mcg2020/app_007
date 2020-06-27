@@ -1,0 +1,8 @@
+
+info: &data
+  name: "lili"
+  phone: "187857638768"
+
+address:
+  <<: *data
+  detail: "黑马程序员"
